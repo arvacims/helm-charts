@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  azure-metrics-exporter:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-10-14T14:27:29.101501+02:00"
+    description: A Helm chart for Kubernetes to scrap azure metrics
+    digest: 360e5e5652f30588f7565f94124fe463fba35431ce72d4883ccc8a0d7ca46842
+    name: azure-metrics-exporter
+    type: application
+    urls:
+    - https://arvacims.github.io/helm-charts/azure-metrics-exporter-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-14T14:27:29.099923+02:00"
